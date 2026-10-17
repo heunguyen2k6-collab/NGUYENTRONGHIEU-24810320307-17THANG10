@@ -28,7 +28,7 @@ Markdown
 
 \### 1. Ảnh màn hình Giao diện chính
 
-!\[Giao diện chính](./images/giaodien4\_9.png)
+!\[Giao diện chính](images/giaodien4\_9.png)
 
 
 
